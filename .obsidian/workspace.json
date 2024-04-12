@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT/2. Maquinas PREP/TryHackMe/Blaster.md",
+                "file": "eJPT/Practicas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f80626bdad4aca53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "eJPT/2. Maquinas PREP/TryHackMe/Startup.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT/2. Maquinas PREP/TryHackMe/Blaster.md",
+                "file": "eJPT/2. Maquinas PREP/TryHackMe/Startup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT/2. Maquinas PREP/TryHackMe/Blaster.md",
+                "file": "eJPT/2. Maquinas PREP/TryHackMe/Startup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT/2. Maquinas PREP/TryHackMe/Blaster.md"
+                "file": "eJPT/2. Maquinas PREP/TryHackMe/Startup.md"
               }
             }
           }
@@ -171,45 +183,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cddb3bc769baefbb",
+  "active": "f80626bdad4aca53",
   "lastOpenFiles": [
-    "eJPT/2. Maquinas PREP/TryHackMe/Blog.md",
-    "eJPT/2. Maquinas PREP/TryHackMe/Blaster.md",
-    "eJPT/1. Metodologia.md",
-    "eJPT/EJPT Apuntes.md",
-    "eJPT/Lab 1.md",
-    "eJPT/Practicas.md",
-    "eJPT/Curso INE - Metodología.md",
-    "eJPT/2. Maquinas PREP/TryHackMe/Startup.md",
-    "eJPT/2. Maquinas PREP/TryHackMe/Pentesting Fundamentals.md",
     "eJPT/2. Maquinas PREP/TryHackMe/Ignite.md",
-    "eJPT/2. Maquinas PREP/TryHackMe/Ice.md",
+    "eJPT/2. Maquinas PREP/TryHackMe/VulnNet Internal.md",
+    "eJPT/2. Maquinas PREP/TryHackMe/Startup.md",
+    "eJPT/1. Metodologia.md",
+    "eJPT/2. Maquinas PREP/VulnHub/DarkHole2.md",
+    "eJPT/2. Maquinas PREP/VulnHub/DarkHole.md",
     "eJPT/2. Maquinas PREP/TryHackMe/ColdBox Easy.md",
+    "eJPT/2. Maquinas PREP/TryHackMe/Blaster.md",
+    "eJPT/2. Maquinas PREP/TryHackMe/Blog.md",
+    "Privatización de conexión.md",
+    "eJPT/Practicas.md",
+    "eJPT/2. Maquinas PREP/TryHackMe/Ice.md",
+    "Pasted image 20240412085830.png",
+    "Pasted image 20240412085733.png",
+    "Pasted image 20240412085714.png",
+    "eJPT/Lab 1.md",
+    "eJPT/Curso INE - Metodología.md",
+    "eJPT/EJPT Apuntes.md",
+    "Pasted image 20240412084338.png",
+    "Pasted image 20240412084053.png",
+    "Pasted image 20240412084051.png",
+    "Pasted image 20240412083730.png",
+    "Pasted image 20240412083227.png",
+    "1_VdH_oe1-qVobhaIbvnIQbQ.webp",
+    "Pasted image 20240412082725.png",
     "eJPT/2. Maquinas PREP/TryHackMe/Chill Hack.md",
     "eJPT/2. Maquinas PREP/TryHackMe/Bolt.md",
     "eJPT/2. Maquinas PREP/TryHackMe/Blue.md",
-    "eJPT/2. Maquinas PREP/TryHackMe/VulnNet Internal.md",
-    "Pasted image 20240405173222.png",
-    "Pasted image 20240405173123.png",
-    "Pasted image 20240405172841.png",
-    "Pasted image 20240405172538.png",
-    "Pasted image 20240405172418.png",
-    "Pasted image 20240405172315.png",
-    "Pasted image 20240405171111.png",
-    "Pasted image 20240405171013.png",
-    "Pasted image 20240405170741.png",
-    "Pasted image 20240405170412.png",
-    "eJPT/2. Maquinas PREP/VulnHub/DarkHole.md",
-    "eJPT/Apuntes antes de examen.md",
-    "1. red.md",
+    "eJPT/2. Maquinas PREP/TryHackMe/Pentesting Fundamentals.md",
+    "eJPT/1. Start Line/Probador de Penetración Junior.md",
     "eJPT/1. Start Line/Final Letter of Engagement eJPT.pdf",
     "eJPT/1. Start Line/Lab Guidelines eJPT.pdf",
-    "eJPT/1. Start Line/Probador de Penetración Junior.md",
+    "eJPT/Apuntes antes de examen.md",
+    "1. red.md",
     "Prueba clouding/PROBLEMA.md",
     "Prueba clouding/wp-config.php.md",
     "Prueba clouding/Prueba clouding.md",
     "Prueba clouding/Resultados.md",
-    "Untitled.md",
     "Prueba clouding",
     "Untitled.canvas",
     "eJPT/2. Maquinas PREP/VulnHub",

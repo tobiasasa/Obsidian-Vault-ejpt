@@ -140,6 +140,7 @@ Vemos que lo único que ofrece esta pagina es una imagen, intentemos descargar l
 ![[Pasted image 20240402202819.png]]
 
 Intente probar si era capaz de ver metadata o algo similar y utilizando steghide fui capaz de identificar un archivo anexado a la imagen llamado backup.zip con un archivo llamado source_code.php
+
 `steghide extract -sf hacker-with-laptop_23-2147985341.jpg`
 ![[Pasted image 20240402203258.png]]
 

@@ -33,7 +33,7 @@ Veamos el script con autenticación y ejecución de comandos
 
 ![[Pasted image 20240402161136.png]]
 
-Viendo el script podemos ver el enlace a un presunto panel de autenticación, comprobémoslo vía web si es posible acceder, y efectivamente, podemos ver el panel de autenticación, intentaremos entrar con las credenciales bolt:boltadmin123
+Viendo el script podemos ver el enlace a un presunto panel de autenticación, comprobémoslo vía web si es posible acceder, y efectivamente, podemos ver el panel de autenticación, intentaremos entrar con las credenciales bolt:boltadmin123( podemos encontrar esta contraseña navegando por la web)
 
 ![[Pasted image 20240402161810.png]]
 
