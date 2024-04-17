@@ -36,7 +36,7 @@ smbclient -L 10.0.2.43 -N
 smbmap -H 10.0.2.43
 
 crackmapexec smb 10.0.2.43 -u '' -p '' --shares
-crackmapexec smb 10.0.2.43 -u '' -p '' --users
+crackmapexec smb 192.168.100.50 -u '' -p '' --users
 
 **enum4linux 10.0.2.43**
 

