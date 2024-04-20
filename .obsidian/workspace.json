@@ -4,71 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "49a77574f571b0a1",
+        "id": "d5123bd647cae993",
         "type": "tabs",
         "children": [
           {
-            "id": "1251a551087f2345",
+            "id": "c5441842462762b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT/2. Maquinas PREP/TryHackMe/Chill Hack.md",
+                "file": "eJPT/EJPT Apuntes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2c32bf5cc7c5c379",
+            "id": "a3b8b9a54b27811d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT/2. Maquinas PREP/TryHackMe/Ignite.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cddb3bc769baefbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "eJPT/Practicas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f80626bdad4aca53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 El examen/Maquina 3 Drupal - 100.52.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55167a97c9ed31db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "eJPT/2. Maquinas PREP/TryHackMe/Blog.md",
+                "file": "1 El examen/Reconocimiento.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 293.5
   },
   "right": {
     "id": "bcc34f969379325a",
@@ -134,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT/2. Maquinas PREP/TryHackMe/Blog.md",
+                "file": "1 El examen/Reconocimiento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT/2. Maquinas PREP/TryHackMe/Blog.md",
+                "file": "1 El examen/Reconocimiento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT/2. Maquinas PREP/TryHackMe/Blog.md"
+                "file": "1 El examen/Reconocimiento.md"
               }
             }
           }
@@ -195,48 +159,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55167a97c9ed31db",
+  "active": "a3b8b9a54b27811d",
   "lastOpenFiles": [
-    "eJPT/1. Start Line/Lab Guidelines eJPT.pdf",
+    "Pasted image 20240420092600.png",
+    "Pasted image 20240420091619.png",
+    "Pasted image 20240420083931.png",
     "Comandos mas practicos.md",
     "eJPT/Practicas.md",
     "eJPT/1. Metodologia.md",
-    "eJPT/Curso INE - Metodología.md",
-    "eJPT/EJPT Apuntes.md",
-    "1 El examen/Maquina 1  WP - 100.50.md",
-    "1 El examen/Maquina 3 Drupal - 100.52.md",
-    "1 El examen/General.md",
-    "1 El examen/Escaneo NMAP.md",
-    "1 El examen/Maquina 4 - 192.168.100.55.md",
-    "Pasted image 20240415082503.png",
-    "Pasted image 20240415082310.png",
-    "eJPT/2. Maquinas PREP/TryHackMe/Blaster.md",
+    "eJPT/2. Maquinas PREP/TryHackMe/Ignite.md",
     "eJPT/2. Maquinas PREP/TryHackMe/ColdBox Easy.md",
     "eJPT/2. Maquinas PREP/TryHackMe/Chill Hack.md",
-    "eJPT/2. Maquinas PREP/TryHackMe/Blog.md",
-    "eJPT/2. Maquinas PREP/TryHackMe/Blue.md",
-    "eJPT/2. Maquinas PREP/TryHackMe/Bolt.md",
-    "Pasted image 20240415071015.png",
+    "1 El examen/Reconocimiento.md",
+    "Pasted image 20240420082025.png",
+    "2024-04-19.md",
     "Maquina IIS 100.51.md",
-    "Untitled.md",
+    "1_VdH_oe1-qVobhaIbvnIQbQ.webp",
+    "eJPT/Curso INE - Metodología.md",
+    "eJPT/EJPT Apuntes.md",
+    "eJPT/2. Maquinas PREP/VulnHub/Election 1.md",
+    "eJPT/2. Maquinas PREP/TryHackMe/Ice.md",
+    "eJPT/2. Maquinas PREP/TryHackMe/Startup.md",
+    "eJPT/2. Maquinas PREP/TryHackMe/Blaster.md",
+    "eJPT/2. Maquinas PREP/TryHackMe/Blog.md",
+    "eJPT/1. Start Line/Probador de Penetración Junior.md",
+    "Pasted image 20240420075252.png",
+    "Pasted image 20240420075249.png",
+    "Pasted image 20240420075018.png",
+    "Pasted image 20240420074458.png",
+    "Pasted image 20240420074053.png",
+    "Pasted image 20240420072526.png",
+    "Reconocimiento.md",
+    "eJPT/2. Maquinas PREP/TryHackMe/VulnNet Internal.md",
+    "eJPT/1. Start Line/Lab Guidelines eJPT.pdf",
+    "eJPT/1. Start Line/Final Letter of Engagement eJPT.pdf",
+    "1 El examen/Maquina 4 - 192.168.100.55.md",
+    "1 El examen/Maquina 3 Drupal - 100.52.md",
+    "1 El examen/Maquina 1  WP - 100.50.md",
+    "1 El examen/General.md",
+    "1 El examen/Escaneo NMAP.md",
+    "PrintNigthmare.md",
+    "Untitled 2.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Privatización de conexión.md",
-    "1_VdH_oe1-qVobhaIbvnIQbQ.webp",
-    "1 El examen/Maquina 2 IIS - 192.168.100.51.md",
-    "eJPT/2. Maquinas PREP/VulnHub/Symfonos 1.md",
-    "Pasted image 20240415013618.png",
-    "Pasted image 20240415013604.png",
-    "eJPT/Lab 1.md",
-    "Pasted image 20240415013014.png",
-    "Pasted image 20240415010155.png",
-    "Pasted image 20240415003634.png",
-    "eJPT/2. Maquinas PREP/TryHackMe/Startup.md",
-    "Pasted image 20240414232452.png",
-    "1 El EXAMEN.md",
     "1 El examen",
-    "eJPT/2. Maquinas PREP/TryHackMe/VulnNet Internal.md",
-    "eJPT/1. Start Line/Final Letter of Engagement eJPT.pdf",
     "Prueba clouding",
     "eJPT/2. Maquinas PREP/VulnHub",
     "eJPT/2. Maquinas PREP/TryHackMe",
